@@ -48,5 +48,5 @@
 ### 🗃️ 99-My-Resources (我的资源)
 > **我的个人“军火库”。**
 > 存放常用网址、工具等，防止迷路。
-> - [常用网址合集](./99-MyResources/bookmarks.md)
+> - [常用网址合集](./99-MyResources/bookMarks.md)
 ---
