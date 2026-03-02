@@ -8,3 +8,4 @@
 8. alias vimbash='vim ~/.bashrc'
 9. alias ll='ls -lh'
 10. alias la='ls -lah'
+11. alias grsn='cd /f/lsyCode/JavaCode/Study-Notes'
