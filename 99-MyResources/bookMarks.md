@@ -24,12 +24,10 @@
 - **[Unsplash](https://unsplash.com/)** - 免费无版权的高清图片，做 PPT 或 Demo 用。
 
 ## ⚡ 学习与社区 (Community)
-- **[Bilibili (黑马程序员)](https://space.bilibili.com/37974444)** - 视频教程根据地。
 - **[GitHub Trending](https://github.com/trending)** - 看看最近大家都在写什么开源项目。
 
 ## 👍 方便且常用的小工具 (Tools)
 - **[I Love PDF](https://www.ilovepdf.com/zh-cn)** - PDF 爱好者的在线工具，支持合并、拆分、转换格式等。
-- **[哔哩哔哩视频下载](https://snapany.com/zh/bilibili)** - 方便地下载 B 站视频。
 - **[力扣 (LeetCode)](https://leetcode.cn/)** - 程序员刷算法题、准备面试的必备网站。
 - **[樱花猫 (Sakura Cat)](https://sakura-cat1.com/)** - 樱花猫梯子。
 - **[LMSYS Chatbot Arena](https://lmarena.ai/leaderboard)** - 查看各大语言模型（如 GPT-4, Llama）的实时对战排行榜。
